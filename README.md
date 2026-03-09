@@ -22,7 +22,7 @@ VISHWAAS-AI operates on a **consensus-based multi-judge system**. Instead of rel
 * **Automated Forensic Reports:** Generates a professional, exportable PDF report detailing confidence scores, metadata integrity, and specific indicators of manipulation (e.g., "Inconsistent lighting on the jawline").
 * **WhatsApp Fact-Check Integration:** A lightweight API connector designed for a WhatsApp bot, allowing users to forward suspicious media for an instant "Trust Score" to curb viral misinformation at the source.
 
----
+--
 
 ### 3. Impact on Public Safety
 
