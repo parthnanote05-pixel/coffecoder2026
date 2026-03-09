@@ -30,7 +30,7 @@ VISHWAAS-AI operates on a **consensus-based multi-judge system**. Instead of rel
 * **Election Integrity:** Provides a scalable tool for monitoring and flagging "black PR" campaigns and synthetic political propaganda.
 * **Protecting Identity:** Specifically designed to detect Non-Consensual Intimate Imagery (NCII) to safeguard individuals from digital harassment.
 
----
+--
 
 ### 4. Technical Stack
 
