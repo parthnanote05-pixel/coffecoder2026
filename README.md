@@ -2,7 +2,7 @@
 
 **VISHWAAS-AI** (Verification & Intelligence System for Holistic Analysis of Authenticity & Safety) is a multimodal forensic platform engineered to combat the escalation of AI-generated synthetic media and digital misinformation. Designed for the **Public Safety & Security** track, it provides law enforcement, media houses, and the general public with a high-precision defense against deepfakes.
 
----
+--
 
 ### 1. The Core Architecture
 
