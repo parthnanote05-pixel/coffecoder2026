@@ -13,7 +13,7 @@ VISHWAAS-AI operates on a **consensus-based multi-judge system**. Instead of rel
 * **Engine 3: Bio-Signal Detector (rPPG):** Extracts subtle "pulse" signals from skin pixel variations. Synthetic faces often lack the consistent blood-flow patterns found in real human skin.
 * **Engine 4: Audio-Visual Sync & Spectral Engine:** Cross-references lip movements with audio phonemes to detect lip-sync deepfakes and analyzes spectral frequencies to identify cloned or synthesized voices.
 
----
+--
 
 ### 2. Key Features & Functionalities
 
